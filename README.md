@@ -1,4 +1,4 @@
-# Roberto KS
+# Roberto K. Stoler
 
 Estudante de Banco de Dados & Data Analytics  
 Foco em Power BI, SQL, Python e análise de dados.
